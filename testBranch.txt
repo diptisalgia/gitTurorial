@@ -2,5 +2,5 @@ Hi
 Created a new branch "T estBranch"
 Created a file in this branch "testBranch.txt"
 
-Changes for git reset
+New changes as per reviewer    
 Git Stashing 1
