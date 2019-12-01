@@ -4,3 +4,4 @@ Created a file in this branch "testBranch.txt"
 
 New changes as per reviewer    
 Git Stashing 1
+Changes related to settings in git for pull request.
